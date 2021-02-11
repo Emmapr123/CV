@@ -16,11 +16,9 @@ I love that development on the one hand merely requires a functioning brain and 
 ## Experience
 
 **Independent artist** (2018 to present)  
-_Your job title_
 
 - Working as an independent artist I spent most of my days working with fellow artists on projects. This meant that I was not just welding all day every day, I also spent loads of time editing audio and video, which to my surprise involved quite some JacaScript (which is the language that Adobe was writen in), and designing online awareness for exhibitions!
 
-- emmapriester.com
 - https://podcasts.apple.com/nl/podcast/the-conversation-of-art/id1540435026
 
 
@@ -30,8 +28,6 @@ _Initiator_
 - When I was in art school I realised that the town in which I lived did not offer a lot of exhibition spaces and opportunities for young artists. I figured just being sad about it wouldn't get us anywhere, and to take matters into my own hands. I ran this gallery for a few years, opening a new exhibition every other week. This allowed amazing experiences of working with artists in al mediums, working on the marketing side of the art world, and I even wrote a research paper on artist-run initiatives that was published in a Dutch art research magazine!
 
 ## Skills
-
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Teammate!
 
@@ -51,6 +47,7 @@ Consider skills relevant to software development. Then consider your best skills
 #### Creative
 
 - I can imagine you were already waiting for this one. With 'artist' on the top of my CV I can't possibly leave it out. Being trained in a less traditionally scientific way, but rather in a problem solving - building original stuff kind of way, I tend to have a different approach to problems than other people, out of the box solutions could just make for some quality code!
+- https://www.emmapriester.com
 
 ## Education
 
