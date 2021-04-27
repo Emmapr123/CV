@@ -1,6 +1,6 @@
 ## Emma Priester
 
-I am an energetic and creative developer in the making! Currently fully focussed on coding Bootcamp Makers Academy, on my way to what I can only imagine to be an amazing time with a career in coding.
+I am an energetic and creative developer in the making! Currently fully focussed on coding Bootcamp Makers Academy, on my way to what I can only imagine to be an amazing time with a career in software development.
 
 Before I started coding I did a degree in Fine art, with focus on Sculpture, that was inspired by my love for physics and science, combined with a desire to create. whilst looking around for more, exciting ways to combine these passions I came across the wonderful world of coding, which is ultimately why I am here, in my London living room, writing my CV for you to read right now!
 
@@ -25,7 +25,7 @@ I love that development on the one hand merely requires a functioning brain and 
 **By Weekly, art gallery** (2017 to 2019)  
 _Initiator_
 
-- When I was in art school I realised that the town in which I lived did not offer a lot of exhibition spaces and opportunities for young artists. I figured just being sad about it wouldn't get us anywhere, and to take matters into my own hands. I ran this gallery for a few years, opening a new exhibition every other week. This allowed amazing experiences of working with artists in al mediums, working on the marketing side of the art world, and I even wrote a research paper on artist-run initiatives that was published in a Dutch art research magazine!
+- When I was in art school I realised that the town in which I lived did not offer a lot of exhibition spaces and opportunities for young artists. I figured just being sad about it wouldn't get us anywhere, and decided to take matters into my own hands. I set up my own gallery that ran for a few years, opening a new exhibition every other week. This allowed amazing experiences of working with artists in al mediums, working on the marketing side of the art world, and I even wrote a research paper on artist-run initiatives that was published in a Dutch art research magazine!
 
 ## Skills
 
@@ -51,7 +51,7 @@ _Initiator_
 
 ## Education
 
-#### Makers Academy (januari 2021 to present)
+#### Makers Academy (februari 2021 to present)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
