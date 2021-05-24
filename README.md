@@ -11,8 +11,9 @@ I love that development on the one hand merely requires a functioning brain and 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[FitLyst](https://github.com/Emmapr123/ControLLyfe-ReactNative)** | An IOS/web app to set up workouts, and set timers for each exercise you want to do. | React Native, JavaSript, Express, Node.js, Jest |
-| **124Bottles** | An IOS app that tracks how many beers you've drunk in relation to saving the economy post corona - according to a recently published article | React Native, Typescript  |
-| **** |  |  |
+| **[124Bottles](https://github.com/Emmapr123/124Bottles)** | An IOS app that tracks how many beers you've drunk in relation to saving the economy post corona - according to a recently published article | React Native, Typescript  |
+| **[Chitter](https://github.com/Emmapr123/Chitter-challange-frontendAPI)** | An app to resemble twitter, using an existing server from Makers Academy for API requests | React Native, Jest, JavaScript |
+| **[IkeBook](https://github.com/Emmapr123/Insert-Team-Name-react-native)** | An app to resemble facebook, styled like Ikea | React Native, Jest, JavaScript, Ruby, Rails, Rspec | 
 
 
 ## Experience
@@ -35,12 +36,12 @@ _Initiator_
 
 - I absolutely adore working in a team! Working on projects together, giving creative input, and helping each other out when anybody gets stuck.
 - As the saying goes: a team is only as strong as its weakest link, this does not mean to get rid of the weakest link, that means you get to push each other to your best potential within a team!
-- I have been an avid hockey player since I was seven years old. Even making it to the under 16s mid regional team in the Netherlands when I was 14. At that time my entire life revolved around the teamwork, I can't wait to find a new team to be part of!
+- I have been an avid hockey player since I was seven years old. Even making it to the under 16s mid regional team in the Netherlands when I was 14. At that time my entire life revolved around the teamwork, I can't wait to find an other team to be part of!
 
 #### Attention for detail
 
 - Working as an artist, detail is one of the most important skills to train. This started with patiently learning to weld, and for the past few months has become more evident in other media through editing audio and video:
-- https://www.youtube.com/channel/UCKJNw42NaG3H2n72xUnZI6Q
+- https://www.youtube.com/watch?v=QJL4XA7-ZnI
 
 #### Project starter
 
@@ -53,12 +54,12 @@ _Initiator_
 
 ## Education
 
-#### Makers Academy (februari 2021 to present)
+#### Makers Academy (februari to May 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, TypeScript
+- RSpec, Jasmine, Jest, React Native testing library
 
 #### AKI ArtEZ (2016 to 2020)
 
@@ -76,3 +77,5 @@ https://www.mistermotley.nl/motley-college/het-kunstenaarsinitiatief - for the D
 - As I said before, I love playing hockey!
 - I still sculpture when I am not coding, with some exiting exhibitions coming up in the next few months!
 - Reading
+- Running
+- Photography
