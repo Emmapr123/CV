@@ -13,7 +13,8 @@ I love that development on the one hand merely requires a functioning brain and 
 | **[FitLyst](https://github.com/Emmapr123/ControLLyfe-ReactNative)** | An IOS/web app to set up workouts, and set timers for each exercise you want to do. | React Native, JavaSript, Express, Node.js, Jest |
 | **[124Bottles](https://github.com/Emmapr123/124Bottles)** | An IOS app that tracks how many beers you've drunk in relation to saving the economy post corona - according to a recently published article | React Native, Typescript  |
 | **[Chitter](https://github.com/Emmapr123/Chitter-challange-frontendAPI)** | An app to resemble twitter, using an existing server from Makers Academy for API requests | React Native, Jest, JavaScript |
-| **[IkeBook](https://github.com/Emmapr123/Insert-Team-Name-react-native)** | An app to resemble facebook, styled like Ikea | React Native, Jest, JavaScript, Ruby, Rails, Rspec | 
+| **[IkeBook](https://github.com/Emmapr123/Insert-Team-Name-react-native)** | An app to resemble facebook, styled like Ikea | React Native, Jest, JavaScript, Ruby, Rails, postgreSQL, Rspec | 
+| **[Notes](https://github.com/Emmapr123/notes)** | A web app to save your Notes in | JavaScript, CSS, HTML, Jasmine |
 
 
 ## Experience
@@ -67,6 +68,7 @@ _Initiator_
 - First
 - With my research paper published in mister motley magazine
 https://www.mistermotley.nl/motley-college/het-kunstenaarsinitiatief - for the Dutch speakers that are interested
+- Adobe Photoshop, Indesign, Illustrator, AfterEffects, XD
 
 #### Kuvataide Academien (2019)
 
