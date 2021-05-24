@@ -1,6 +1,6 @@
 ## Emma Priester
 
-I am an energetic and creative developer in the making! Currently fully focussed on coding Bootcamp Makers Academy, on my way to what I can only imagine to be an amazing time with a career in software development.
+I am an energetic and creative front-end developer, recently graduated from a full stack software development Bootcamp at Makers Academy, on my way to what I can only imagine to be an amazing time with a career in software development.
 
 Before I started coding I did a degree in Fine art, with focus on Sculpture, that was inspired by my love for physics and science, combined with a desire to create. whilst looking around for more, exciting ways to combine these passions I came across the wonderful world of coding, which is ultimately why I am here, in my London living room, writing my CV for you to read right now!
 
@@ -10,8 +10,9 @@ I love that development on the one hand merely requires a functioning brain and 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **FitLyst** | An IOS/web app to set up workouts, and set timers for each exercise you want to do. | React Native, JavaSript, Express, Node.js, Jest |
+| **124Bottles** | An IOS that tracks how many beers you've drunk in relation to saving the economy post corona - according to a recently published article | React Native, Typescript  |
+
 
 ## Experience
 
