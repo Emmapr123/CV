@@ -10,8 +10,9 @@ I love that development on the one hand merely requires a functioning brain and 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **FitLyst** | An IOS/web app to set up workouts, and set timers for each exercise you want to do. | React Native, JavaSript, Express, Node.js, Jest |
-| **124Bottles** | An IOS that tracks how many beers you've drunk in relation to saving the economy post corona - according to a recently published article | React Native, Typescript  |
+| **[FitLyst](https://github.com/Emmapr123/ControLLyfe-ReactNative)** | An IOS/web app to set up workouts, and set timers for each exercise you want to do. | React Native, JavaSript, Express, Node.js, Jest |
+| **124Bottles** | An IOS app that tracks how many beers you've drunk in relation to saving the economy post corona - according to a recently published article | React Native, Typescript  |
+| **** |  |  |
 
 
 ## Experience
