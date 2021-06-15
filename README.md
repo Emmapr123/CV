@@ -10,7 +10,7 @@ I love that development on the one hand merely requires a functioning brain and 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[FitLyst](https://github.com/Emmapr123/ControLLyfe-ReactNative)** | An IOS/web app to set up workouts, and set timers for each exercise you want to do. | React Native, JavaSript, Express, Node.js, Jest |
+| **[GetGo](https://github.com/Emmapr123/GetGoFrontEnd)** | An IOS/web app to set up workouts, and set timers for each exercise you want to do. Rebuilt version of [Fitlyst](https://github.com/Emmapr123/ControLLyfe-ReactNative), my final project at Makers Academy. This time in Typescript, using context to fix any isseus we ran into before. Available in the app store. | React Native, Typescript |
 | **[124Bottles](https://github.com/Emmapr123/124Bottles)** | An IOS app that tracks how many beers you've drunk in relation to saving the economy post corona - according to [a recently published article](https://www.standard.co.uk/news/uk/brits-drink-124-pints-each-struggling-pubs-covid-lockdown-b935186.html) | React Native, Typescript  |
 | **[Chitter](https://github.com/Emmapr123/Chitter-challange-frontendAPI)** | An app to resemble twitter, using an existing server from Makers Academy for API requests | React Native, Jest, JavaScript |
 | **[IkeBook](https://github.com/Emmapr123/Insert-Team-Name-react-native)** | An app to resemble facebook, styled like Ikea | React Native, Jest, JavaScript, Ruby, Rails, postgreSQL, Rspec | 
@@ -78,6 +78,4 @@ https://www.mistermotley.nl/motley-college/het-kunstenaarsinitiatief - for the D
 
 - As I said before, I love playing hockey!
 - I still sculpture when I am not coding, with some exiting exhibitions coming up in the next few months!
-- Reading
-- Running
 - Photography
